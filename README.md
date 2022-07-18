@@ -1,12 +1,12 @@
 ## "Hello World" App
 
 ### App Description
-`TODO://` Add app description
+This simple Swift app allows users to display custom text using a label, which than then be modified, along with the rest of the display, using a variety of buttons. The button "Button" changes the text color to orange, "change background color" changes the background color to green (from teal) and "change text" changes the label text from "Hello from Sebastien!" to "Goodbye👋". Clicking the background, meanwhile, resets all initial settings. The user can write to the "input text" textfield using the on-screen keyboard, then display this text in the label by clicking "Display Input Text". Doing so while the textfield is empty displays the default label message. Similarly, clicking on the background empties the textfield.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://recordit.co/doNawHQcm5" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
